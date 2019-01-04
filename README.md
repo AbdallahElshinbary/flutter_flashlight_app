@@ -1,6 +1,8 @@
-# flashlight_app
+# flutter_flashlight_app
 
 A new Flutter project.
+
+![flashlight](https://media.giphy.com/media/7SOdmSYGFQeCPz9tpu/giphy.gif)
 
 ## Getting Started
 

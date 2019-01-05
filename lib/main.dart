@@ -210,9 +210,8 @@ class SwitchButtonState extends State<SwitchButton> {
     return GestureDetector(
       onVerticalDragUpdate: _onVerticalDragUpdate,
       onVerticalDragEnd: _onVerticalDragEnd,
-      child: AnimatedPadding(
+      child: Padding(
         padding: EdgeInsets.only(top: offset),
-        duration: Duration(milliseconds: 150),
         child: Container(
           height: 90.0,
           width: 86.0,
